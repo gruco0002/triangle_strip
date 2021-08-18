@@ -6,7 +6,8 @@ connected triangles.
 
 This can be especially useful for converting regular triangle based meshes
 into a triangle strip based one. Such a version can then be used inside
-a geometry shader.
+a geometry shader. More information and use cases of triangle strips can be
+found on Wikipedia: [Triangle strip](https://en.wikipedia.org/wiki/Triangle_strip)
 
 If you got any improvements for the module feel free to raise an issue or
 contact me.
